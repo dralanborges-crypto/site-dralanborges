@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Alan Borges — Osteopata D.O",
+  "short_name": "Dr. Alan Borges",
+  "description": "Osteopatia D.O em Londrina: dor lombar, cervical, enxaqueca, DTM e osteopatia pediátrica.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf9f6",
+  "theme_color": "#16332f",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "favicon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "favicon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
