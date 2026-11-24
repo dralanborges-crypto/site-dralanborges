@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dralanborges.com.br/sitemap.xml
