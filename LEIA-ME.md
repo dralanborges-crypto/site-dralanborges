@@ -10,11 +10,16 @@ Como colocar o site no ar. São arquivos estáticos — HTML e uma folha de esti
 index.html                 → página inicial (osteopata em Londrina)
 osteopatia.html            → o que é osteopatia
 dor-lombar.html            → dor lombar
+dor-cervical.html          → dor cervical
+ciatica.html               → ciática
 osteopatia-pediatrica.html → bebês e crianças
 enxaqueca-dtm.html         → enxaqueca e DTM
 metodo-sib.html            → Método SIB
 cursos.html                → cursos e formação
 estilo.css                 → folha de estilo única (comum a todas as páginas)
+favicon.ico / .svg / .png  → ícone da aba e do atalho no celular
+manifest.json              → configuração do ícone em dispositivos
+img/                       → fotos do site (hero e compartilhamento)
 ```
 
 Os arquivos devem ficar **todos na mesma pasta**, sem subpastas.
