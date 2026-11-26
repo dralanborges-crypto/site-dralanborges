@@ -2,72 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://dralanborges.com.br/</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://dralanborges.com.br/osteopatia.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://dralanborges.com.br/dor-lombar.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://dralanborges.com.br/osteopatia-pediatrica.html</loc>
-    <lastmod>2026-11-23</lastmod>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://dralanborges.com.br/enxaqueca-dtm.html</loc>
-    <lastmod>2026-11-23</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://dralanborges.com.br/metodo-sib.html</loc>
-    <lastmod>2026-11-23</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://dralanborges.com.br/cursos.html</loc>
-    <lastmod>2026-11-23</lastmod>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://dralanborges.com.br/dor-cervical.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://dralanborges.com.br/ciatica.html</loc>
-    <lastmod>2026-11-24</lastmod>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://dralanborges.com.br/osteopatia-visceral-craniana.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://dralanborges.com.br/dor-ombro.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://dralanborges.com.br/fibromialgia.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://dralanborges.com.br/lesoes-esportivas.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://dralanborges.com.br/enxaqueca-dtm.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://dralanborges.com.br/osteopatia-pediatrica.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://dralanborges.com.br/osteopatia-visceral-craniana.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://dralanborges.com.br/metodo-sib.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://dralanborges.com.br/cursos.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://dralanborges.com.br/cursos-online.html</loc>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://dralanborges.com.br/formacao-sib.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://dralanborges.com.br/linguagem-neural-toque-osteopatico.html</loc>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
