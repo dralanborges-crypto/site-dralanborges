@@ -206,6 +206,7 @@ footer .fim{
   header.topo,.barra-mobile,.cta{display:none}
 }
 
+
 /* ---------- galeria de fotos da turma ---------- */
 .galeria{
   display:grid;gap:16px;
